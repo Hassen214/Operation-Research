@@ -17,6 +17,8 @@ For the tone shops, one less-than-ideal approach is to exclude the resequencing 
 ​
 $\(\tilde{\sigma}_s\)$ from it. Once this initial solution is achieved, further improvements could be made.
 
+I also put in the latex code file my formulation for the linear problem. Read it and tell me if you find errors.
+
 
 
 
