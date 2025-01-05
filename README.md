@@ -19,6 +19,8 @@ $\(\tilde{\sigma}_s\)$ from it. Once this initial solution is achieved, further 
 
 I also put in the latex code file my formulation for the linear problem. Read it and tell me if you find errors.
 
+This does not work for large instances. One needs to find a greedy approach.
+
 
 
 
