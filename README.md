@@ -21,7 +21,15 @@ I also put in the latex code file my formulation for the linear problem. Read it
 
 This does not work for large instances. One needs to find a greedy approach.
 
+What should happen now ?
 
+We first should verify our implementation of the linear algorithm, and try to get the instance that was given in the paper.
+Second, We need to verify all the code we wrote for Heuristics(download julia and verify it)
+Third, we need to implement feasible solutions 
+Fourth,We need to improve our search for neigbours
+Fifth, test it on the big instances
+
+Sixth, write 'Compte Rendu'
 
 
 
