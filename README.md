@@ -1,6 +1,4 @@
-the push was done wait for baha now.
-
-Les solutions sont dans le dossier data 
+Special Thanks to j3mouad for helping us a lot.
 
 
 
